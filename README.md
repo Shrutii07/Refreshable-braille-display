@@ -17,6 +17,6 @@ ECE Dept project in an electronic device capable of reading text from an app, an
 - [braille_servo](https://github.com/Shrutii07/Refreshable-braille-display/blob/master/braille_servo.ino) : Code to convert ASCII to Braille for servo motors.
 
 ## Video
-Video for the project : [Video](https://youtu.be/yWvv9QY8iRg)
+Video for the project : [Video](https://youtu.be/7I6bJF0T2Q0)
 ## Report
 Report for the project : [Report](https://docs.google.com/document/d/1jFBnajXjlG_So482YT4tQGygz_mABlTJZRvJyg4ndZo/edit?usp=sharing)
