@@ -4,6 +4,8 @@ ECE Dept project in an electronic device capable of reading text from an app, an
 
 *Note: bluetooth code is for app named 'Braille App' for other apps modify it according to the output of the said app*
 
+![gif of model](Refreshable_Braille_Display.gif)
+
 ## Softwares Required
 - [Arduino IDE](https://www.arduino.cc/en/Main/Software)
 - [Braille App](https://drive.google.com/file/d/1J4qEIaJ0qcIv7b7UjU67EF6Y-HYO6rsn/view?usp=drivesdk)
